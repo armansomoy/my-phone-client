@@ -11,4 +11,4 @@ const Phone = () => {
     );
 };
 
-export default Phone;
+export default Phone; 
